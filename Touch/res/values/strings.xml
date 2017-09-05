@@ -1,0 +1,76 @@
+<resources>
+
+    <string name="app_name">Quick Touch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="choose_app">Choose apps</string>
+    <string name="apps">Applications</string>
+    <string name="favor_app">Favorite apps</string>
+    <string name="clean_cache_success">Clean cache success!</string>
+    <string name="click_here">Click here</string>
+    <string name="service_stop">Quick Touch is stoped</string>
+    <string name="version">Version 1.0.37014 \n\u00a92014 Efse group</string>
+    <string name="credits">Credits</string>
+    <string name="feedback">Feedback</string>
+    <string name="support">Support us</string>
+    <string name="credits_content">\n
+        				* With Version 1.0.37014\n\n
+
+						* Coder 		: Takashiro Ikeda\n\n
+						
+						* Designer	: The Kop.Colorone\n\n
+						
+						* Email : takaiyouken@gmail.com\n\n
+						
+						* Release by EFSEgroup\n\n
+						
+						===========================\n\n
+						
+						Thanks for using it! \n     
+    </string>
+
+    <string-array name="menu">
+        <item>Settings</item>
+        <item>Panel</item>
+        <item>Uninstall</item>
+    </string-array>
+    <string-array name="feedback">
+        <item>Happy</item>
+        <item>Confuse</item>
+        <item>Unhappy</item>
+        <item>I have an idea</item>
+    </string-array>
+    
+    
+     <string-array name="array_animation">
+        <item>ZoomIn ZoomOut</item>
+        <item>Collapse Expands</item>
+        <item>Rotation 1</item>
+        <item>Rotation 2</item>
+        <item>Bounce</item>
+        <item>Move to screen center</item>
+    </string-array>
+    
+    <string-array name="pannel">
+        <item>None</item>
+        <item>Home</item>
+        <item>Favor</item>
+        <item>Setting</item>
+        <item>Lock_Screen</item>
+        <item>Apps</item>
+        <item>Clean_Memory</item>
+        <item>Back</item>
+        <item>Menu</item>
+        <item>Clean_Cache</item>
+        <item>Time</item>
+        <item>SnapShot</item>
+        <item>Battery_Display</item>
+        <item>Volume_Up</item>
+        <item>Volume_Down</item>
+        <item>Auto_Orientation</item>
+        <item>Light</item>
+        <item>Ringer</item>
+        <item>GPS</item>
+        <item>Screen_light</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/row_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         >
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/imageView"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+
+        <View
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:id="@+id/view"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:background="@drawable/button_delete"
+            />
+    </FrameLayout>
+
+</LinearLayout>

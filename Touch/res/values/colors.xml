@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#02457c</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ba0101</color>
+    <color name="green">#039807</color>
+    <color name="orange">#ffaa00</color>
+    <color name="blue">#00aaff</color>
+    <color name="gray">#999999</color>
+    <color name="gray_light">#e5e5e5</color>
+    <color name="aqua_lighter">#4fc1e9</color>
+    <color name="aqua_deep">#3bafda</color>
+    <color name="grass_lighter">#A0D468</color>
+    <color name="grass_deep">#8cc152</color>
+    <color name="lavander_lighter">#AC92EC</color>
+    <color name="lavander_deep">#967adc</color>
+    <color name="bitterSweet_lighter">#fc6e51</color>
+    <color name="bitterSweet_deep">#e9573f</color>
+
+    
+     <color name="black_aqua">#454545</color>
+     
+     <color name="divider">#222</color>
+    
+    <!-- The blue -->
+    <color name="peter_river">#3498db</color>
+    <color name="belize_hole">#2980b9</color>
+
+    <!-- The green -->
+    <color name="emerland">#2ecc71</color>
+    <color name="nephritis">#27ae60</color>
+
+    <!-- The green sea -->
+    <color name="turquoise">#1abc9c</color>
+    <color name="green_sea">#16a085</color>
+
+    <!-- The lavender -->
+    <color name="amethyst">#9b59b6</color>
+    <color name="wisteria">#8e44ad</color>
+
+    <!-- The midnight blue -->
+    <color name="wetasphalt">#34495e</color>
+    <color name="midnight_blue">#2c3e50</color>
+
+    <!-- The clouds -->
+    <color name="clouds">#ecf0f1</color>
+    <color name="silver">#bdc3c7</color>
+
+    <!-- The red -->
+    <color name="alizarin">#e74c3c</color>
+    <color name="pomegranate">#c0392b</color>
+
+    <!-- The orange -->
+    <color name="carrot">#e67e22</color>
+    <color name="pumpkin">#d35400</color>
+
+    <!-- The yellow -->
+    <color name="sun_flower">#f1c40f</color>
+    <color name="orange_aqua">#f39c12</color>
+
+</resources>
